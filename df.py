@@ -11,3 +11,4 @@ print(f"my email is {email}")
 z=56
 y=34
 print(f"the sum of {z} and {y} is {z+y}")
+print(f"my fathers age is {z}")
