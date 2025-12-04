@@ -12,3 +12,5 @@ z=56
 y=34
 print(f"the sum of {z} and {y} is {z+y}")
 print(f"my fathers age is {z}")
+totalstudents=53
+print(f"the total number of students in my class is {totalstudents}")
