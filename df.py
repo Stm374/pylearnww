@@ -14,3 +14,6 @@ print(f"the sum of {z} and {y} is {z+y}")
 print(f"my fathers age is {z}")
 totalstudents=53
 print(f"the total number of students in my class is {totalstudents}")
+cgpa=9.8
+friendscgpa=4.8
+print(f"my cgpa is {cgpa} and my friends cgpa is {friendscgpa}")
