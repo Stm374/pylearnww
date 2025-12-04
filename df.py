@@ -17,3 +17,11 @@ print(f"the total number of students in my class is {totalstudents}")
 cgpa=9.8
 friendscgpa=4.8
 print(f"my cgpa is {cgpa} and my friends cgpa is {friendscgpa}")
+r="satyam"
+a=23
+m=3.5
+u=True
+type(r)
+print(type(r))
+a=float(a)
+print(a)
